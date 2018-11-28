@@ -1,0 +1,11 @@
+{
+  "name": "spyfall",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Daniel Wong",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.1.1"
+  }
+}

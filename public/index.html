@@ -1,0 +1,34 @@
+<html>
+  <head>
+      <link rel="stylesheet" href="style.css">
+      <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  </head>
+  <body>
+    <ul class="pages">
+      <li class="game page">
+        <h2 class="title">Spyfall</h2>
+        <button type="button" class="role-button">Role</button>
+        <br /><br />
+        <ul class="locations"></ul>
+      </li>
+      <li class="room page">
+        <section class="playerList">
+          <h2 class="title">Players</h2>
+          <ul class="players"></ul>
+          <br />
+          <button type="button" class="all-in-button">All In!</button>
+        </section>
+      </li>
+      <li class="login page">
+        <section class="form">
+          <h3 class="title">What's your name?</h3>
+          <input class="nameInput" type="text" maxlength="14" />
+        </section>
+      </li>
+    </ul>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="/main.js"></script>
+  </body>
+</html>

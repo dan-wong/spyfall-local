@@ -1,0 +1,40 @@
+{
+  "locations": [
+    {
+      "name": "Airplane",
+      "roles": [
+        "First Class Passenger",
+        "Air Marshall",
+        "Mechanic",
+        "Economy Class Passenger",
+        "Stewardness",
+        "Co-Pilot",
+        "Captain"
+      ]
+    },
+    {
+      "name": "Bank",
+      "roles": [
+        "Armored Car Driver",
+        "Manager",
+        "Consultant",
+        "Customer",
+        "Robber",
+        "Security Guard",
+        "Teller"
+      ]
+    },
+    {
+      "name": "Beach",
+      "roles": [
+        "Beach Waitress",
+        "Kite Surfer",
+        "Lifeguard",
+        "Theif",
+        "Beach Goer",
+        "Beach Photographer",
+        "Ice Cream Truck Driver"
+      ]
+    }
+  ]
+}
