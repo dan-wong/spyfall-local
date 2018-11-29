@@ -143,6 +143,224 @@
         "Therapist",
         "Surgeon"
       ]
+    },
+    {
+      "name": "Hotel",
+      "roles": [
+        "Doorman",
+        "Security Guard",
+        "Manager",
+        "Housekeeper",
+        "Bartender",
+        "Bellman",
+        "Customer"
+      ]
+    },
+    {
+      "name": "Military Base",
+      "roles": [
+        "Deserter",
+        "Colonel",
+        "Medic",
+        "Sniper",
+        "Officer",
+        "Tank Engineer",
+        "Soldier"
+      ]
+    },
+    {
+      "name": "Movie Studio",
+      "roles": [
+        "Stunt Man",
+        "Sound Engineer",
+        "Camera Man",
+        "Director",
+        "Costume Artist",
+        "Producer",
+        "Actor"
+      ]
+    },
+    {
+      "name": "Ocean Liner",
+      "roles": [
+        "Cook",
+        "Captain",
+        "Bartender",
+        "Musician",
+        "Waiter",
+        "Mechanic",
+        "Rich Passenger"
+      ]
+    },
+    {
+      "name": "Passenger Train",
+      "roles": [
+        "Mechanic",
+        "Border Patrol",
+        "Train Attendant",
+        "Restaurant Chef",
+        "Train Driver",
+        "Stoker",
+        "Passenger"
+      ]
+    },
+    {
+      "name": "Pirate Ship",
+      "roles": [
+        "Cook",
+        "Slave",
+        "Cannoneer",
+        "Tied Up Prisoner",
+        "Cabin Boy",
+        "Brave Captain",
+        "Sailor"
+      ]
+    },
+    {
+      "name": "Polar Station",
+      "roles": [
+        "Medic",
+        "Expedition Leader",
+        "Biologist",
+        "Radioman",
+        "Hydrologist",
+        "Meteorologist",
+        "Geologist"
+      ]
+    },
+    {
+      "name": "Police Station",
+      "roles": [
+        "Detective",
+        "Lawyer",
+        "Journalist",
+        "Criminalist",
+        "Archivist",
+        "Criminal",
+        "Patrol Officer"
+      ]
+    },
+    {
+      "name": "Restaurant",
+      "role": [
+        "Musician",
+        "Bouncer",
+        "Hostess",
+        "Head Chef",
+        "Food Critic",
+        "Waiter",
+        "Customer"
+      ]
+    },
+    {
+      "name": "School",
+      "role": [
+        "Gym Teacher",
+        "Principal",
+        "Security Guard",
+        "Janitor",
+        "Cafeteria Lady",
+        "Maintenance Man",
+        "Student"
+      ]
+    },
+    {
+      "name": "Service Station",
+      "roles": [
+        "Manager",
+        "Tire Specialist",
+        "Biker",
+        "Car Owner",
+        "Car Wash Operator",
+        "Electrician",
+        "Auto Mechanic"
+      ]
+    },
+    {
+      "name": "Space Station",
+      "roles": [
+        "Engineer",
+        "Alien",
+        "Pilot",
+        "Commander",
+        "Scientist",
+        "Doctor",
+        "Space Tourist"
+      ]
+    },
+    {
+      "name": "Submarine",
+      "roles": [
+        "Cook",
+        "Commander",
+        "Sonar Technician",
+        "Electronics Technician",
+        "Radioman",
+        "Navigator",
+        "Sailor"
+      ]
+    },
+    {
+      "name": "Supermarket",
+      "roles": [
+        "Cashier",
+        "Butcher",
+        "Janitor",
+        "Security Guard",
+        "Food Sample Demonstrator",
+        "Shelf Stocker",
+        "Customer"
+      ]
+    },
+    {
+      "name": "Theatre",
+      "roles": [
+        "Coat Check Lady",
+        "Prompter",
+        "Cashier",
+        "Director",
+        "Actor",
+        "Crew Man",
+        "Audience Member"
+      ]
+    },
+    {
+      "name": "University",
+      "roles": [
+        "Graduate Student",
+        "Professor",
+        "Dean",
+        "Psychologist",
+        "Maintenance Man",
+        "Janitor",
+        "Student"
+      ]
+    },
+    {
+      "name": "World War II Squad",
+      "roles": [
+        "Resistance Fighter",
+        "Radioman",
+        "Scout",
+        "Medic",
+        "Cook",
+        "Imprisoned Nazi",
+        "Soldier"
+      ]
+    },
+    {
+      "name": "Race Track",
+      "roles": [
+        "Team Owner",
+        "Driver",
+        "Engineer",
+        "Spectator",
+        "Referee",
+        "Mechanic",
+        "Food Vendor",
+        "Commentator",
+        "Bookmaker"
+      ]
     }
   ]
 }
