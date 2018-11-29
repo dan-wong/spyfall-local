@@ -35,6 +35,114 @@
         "Beach Photographer",
         "Ice Cream Truck Driver"
       ]
+    },
+    {
+      "name": "Broadway Theatre",
+      "roles": [
+        "Coat Check Lady",
+        "Prompter",
+        "Cashier",
+        "Visitor",
+        "Director",
+        "Actor",
+        "Crewman"
+      ]
+    },
+    {
+      "name": "Casino",
+      "roles": [
+        "Bartender",
+        "Head Security Guard",
+        "Bouncer",
+        "Manager",
+        "Hustler",
+        "Dealer",
+        "Gambler"
+      ]
+    },
+    {
+      "name": "Cathedral",
+      "roles": [
+        "Priest",
+        "Beggar",
+        "Sinner",
+        "Parishioner",
+        "Tourist",
+        "Sponsor",
+        "Choir Singer"
+      ]
+    },
+    {
+      "name": "Circus Tent",
+      "roles": [
+        "Acrobat",
+        "Animal Trainer",
+        "Magician",
+        "Visitor",
+        "Fire Eater",
+        "Clown",
+        "Juggler"
+      ]
+    },
+    {
+      "name": "Corporate Party",
+      "roles": [
+        "Entertainer",
+        "Manager",
+        "Unwelcomed Guest",
+        "Owner",
+        "Secretary",
+        "Accountant",
+        "Delivery Boy"
+      ]
+    },
+    {
+      "name": "Crusader Army",
+      "roles": [
+        "Monk",
+        "Imprisoned Arab",
+        "Servant",
+        "Bishop",
+        "Squire",
+        "Archer",
+        "Knight"
+      ]
+    },
+    {
+      "name": "Day Spa",
+      "roles": [
+        "Customer",
+        "Stylist",
+        "Masseuse",
+        "Manicurist",
+        "Makeup Artist",
+        "Dermatologist",
+        "Beautician"
+      ]
+    },
+    {
+      "name": "Embassy",
+      "roles": [
+        "Security Guard",
+        "Secretary",
+        "Ambassador",
+        "Government Official",
+        "Tourist",
+        "Refugee",
+        "Diplomat"
+      ]
+    },
+    {
+      "name": "Hospital",
+      "roles": [
+        "Nurse",
+        "Doctor",
+        "Anesthesiologist",
+        "Intern",
+        "Patient",
+        "Therapist",
+        "Surgeon"
+      ]
     }
   ]
 }

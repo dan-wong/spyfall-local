@@ -5,6 +5,7 @@ $(function() {
   const $allInButton = $('.all-in-button');
   const $locations = $('.locations');
   const $roleButton = $('.role-button');
+  const $newGameButton = $('.new-game-button');
 
   const $loginPage = $('.login.page');
   const $roomPage = $('.room.page');
@@ -66,6 +67,14 @@ $(function() {
     alert(currentRole);
   });
 
+  $newGameButton.click(() => {
+    socket.emit('game over');
+  });
+
+  socket.on('reveal spy', (data) => {
+    alert("The Spy was " + data.spy);
+  });
+
   jQuery.getJSON("spyfall.json", (json) => {
     spyfallData = json.locations;
     json.locations.forEach((location) => {
@@ -81,8 +90,8 @@ $(function() {
     $roomPage.fadeOut();
     $gamePage.show();
     $currentInput = $gamePage.focus();
-
-    console.log(data.spy);
+    
+    spy = data.spy;
     if (data.spy == name) {
       currentRole = "You are the Spy";
     } else {
